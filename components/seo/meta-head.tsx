@@ -35,7 +35,7 @@ export function constructMetadata({
       description,
       images: [ogImage]
     },
-    metadataBase: new URL("https://your-site-url.com"),
+    metadataBase: new URL("https://discord-clone-omega-bice.vercel.app/"),
     themeColor: "#5865F2", // Discord's primary color
     icons: {
       icon: "/favicon.ico",
